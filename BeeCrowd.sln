@@ -47,6 +47,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1019 - Time Conversion", "B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1020 - Age in Days", "Beginner\1020 - Age in Days\1020 - Age in Days.csproj", "{CD58F29A-4804-4A66-B5B2-2D8BDCEE84F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1021 - Banknotes and Coins", "1021 - Banknotes and Coins\1021 - Banknotes and Coins.csproj", "{F736CB4A-63B3-4E0D-AE3B-CF1AF1BF09A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -137,6 +139,10 @@ Global
 		{CD58F29A-4804-4A66-B5B2-2D8BDCEE84F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD58F29A-4804-4A66-B5B2-2D8BDCEE84F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD58F29A-4804-4A66-B5B2-2D8BDCEE84F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F736CB4A-63B3-4E0D-AE3B-CF1AF1BF09A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F736CB4A-63B3-4E0D-AE3B-CF1AF1BF09A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F736CB4A-63B3-4E0D-AE3B-CF1AF1BF09A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F736CB4A-63B3-4E0D-AE3B-CF1AF1BF09A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -163,6 +169,7 @@ Global
 		{008EF05A-7E36-4545-BE0D-E61CA866B261} = {C6F50A82-3D6E-436B-A2BD-F085898FC567}
 		{3C437105-5557-415D-8A70-F0ECFA009504} = {C6F50A82-3D6E-436B-A2BD-F085898FC567}
 		{CD58F29A-4804-4A66-B5B2-2D8BDCEE84F3} = {C6F50A82-3D6E-436B-A2BD-F085898FC567}
+		{F736CB4A-63B3-4E0D-AE3B-CF1AF1BF09A7} = {C6F50A82-3D6E-436B-A2BD-F085898FC567}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4026A1CB-4E79-4A2B-9B79-CFD00F7D46B8}
